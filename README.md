@@ -23,4 +23,4 @@ API  desenvolvida em Python com FastAPI para registrar projetos de portfólio e 
 Clone o repositório:
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/israias23/devjourney-api
