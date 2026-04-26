@@ -29,3 +29,9 @@ Clone o repositório:
 
 ```bash
 git clone https://github.com/israias23/devjourney-api
+```
+
+Depois execute:
+
+```bash
+uvicorn main:app --reload
